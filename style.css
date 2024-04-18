@@ -42,3 +42,8 @@ p {
 h1 {
   color: white;
 }
+
+button {
+  color: white;
+  background-color: rgb(80, 49, 49);
+}
